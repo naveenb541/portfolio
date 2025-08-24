@@ -53,14 +53,18 @@
 
 ## Projects
 ### Student Management System | Python, Django, MySQL
-- Developed a full-stack web application with role-based authentication, attendance tracking, and performance 
-monitoring.
-- Implemented Django ORM with MySQL for secure and efficient data management.
-
-### Learning Chatbot Using Gemini Model | Python, Gemini AI
-- Developed a Learning Chatbot to facilitate personalized educational interactions using the Gemini AI model.
-- Integrated natural language processing (NLP) for generating context-aware and dynamic responses
+- Built a comprehensive School LMS using Django, with features like role-based access control, course and assignment management, user authentication, and feedback mechanisms. Implemented backend database logic with Django ORM, designed intuitive frontend using Bootstrap.
+- Automated assignment submissions, grading workflows, and instructor feedback loops.
+- Developed RESTful views or APIs for seamless front-end to back-end communication.
 
 
+### Conversational Q&A Chatbot | Python, Gemini API, NLP
+- Developed an AI-powered chatbot capable of answering user queries in a conversational manner using Google Gemini Pro API.
+- Implemented a retrieval-based Q&A system that processes natural language queries and generates context-aware responses.
+- The chatbot is designed to provide context-aware, conversational responses and is deployed with an interactive web interface.
+- Integrated prompt engineering and response handling to improve chatbot accuracy and relevance.
+- Developed an AI-powered chatbot capable of answering user queries in real time using Google’s Gemini Pro API. 
 
-- [Software Development Blog](https://medium.com/@naveenbtech)
+
+
+## [Software Development Blog](https://medium.com/@naveenbtech)
