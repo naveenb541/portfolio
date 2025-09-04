@@ -1,5 +1,5 @@
 title: Naveen B
-logo: /assets/img/dp.jpg
-description: text below image
+logo: /assets/img/dp
+# description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
