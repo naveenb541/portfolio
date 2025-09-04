@@ -1,13 +1,10 @@
-# Software Developer
+# Python Developer
 
-#### Technical Skills: Python, SQL, AWS, Django, Pyspark
+#### Technical Skills: Python, SQL, AWS, Django, Pyspark, ETL
 
-## Education							       		
-- M.S., Information Technology	| Concorida University., St. Paul (_May 2025_)	 			        		
-- B.Tech., ECE | RGUKT- Nuzvid (_Oct 2020_)
 
 ## Work Experience
-**Software Developer @ American Airlines (_Jan 2024 - Present_)**   Jan 2024 – December 2024 
+**Python Engineeer @ Humana (_Dec 2024 - Present_)** 
 
 - Collaborated with stakeholders to gather requirements and develop high-level and detailed design documents.
 - Wrote PySpark scripts in AWS Glue to load and process data from S3 raw to stage buckets.
@@ -18,7 +15,7 @@
 - Created views and templates with Python and Django's view controller and templating language for a user-friendly website interface.
 - Used NumPy, SciPy, and Matplotlib libraries for data representation and graph plotting. 
 
-**Equifax @ Python Developer  (_June 2023 – July 2023_)**
+**United Airlines @ Sr. Python Developer  (_Mar 2024 – Nov 2024_)**
 - Gathered requirements, performed system analysis, and managed the design, development, testing, deployment, and implementation of stand-alone and client-server enterprise applications.
 - Analyzed cross-functional, multi-platform application systems, enforced Python best practices, and provided guidance on long-term architectural decisions.
 - Designed, developed, and deployed engaging web applications using Python and Django's Model View Controller (MVC) architecture.
@@ -26,7 +23,7 @@
 - Created Spark scripts with PySpark and Java using PyCharm and Spring Boot for internalization processes.
 - Implemented responsive UI standards using HTML5, CSS3, JavaScript, Bootstrap, and jQuery.
 
-**Software Engineer @ ADP (_December 2020 - Present_)**
+**Python Developer @ ADP (_December 2021 - Dec2023_)**
 - Designed and developed a Python-based tool to automate tax filing comparisons, reducing manual processing time by 60% and enhancing accuracy.
 - Implemented AWS Lambda serverless functions to improve scalability and reduce operational costs by 50%.
 - Built and deployed RESTful APIs for seamless integration between cloud-based and on-premises systems, ensuring secure and high-performance data exchange.
@@ -37,7 +34,15 @@
 - Wrote and maintained unit and integration tests using Pytest, ensuring data integrity and reducing production bugs through comprehensive edge case coverage.
 - Optimized data manipulation pipelines for large datasets, achieving lower latency and improved system performance.
 
-**Software Engineer @ ParamInfo (_May 2020 – Dec 2021_)**
+**Equifax @ Python Developer  (_June 2023 – July 2023_)**
+- Gathered requirements, performed system analysis, and managed the design, development, testing, deployment, and implementation of stand-alone and client-server enterprise applications.
+- Analyzed cross-functional, multi-platform application systems, enforced Python best practices, and provided guidance on long-term architectural decisions.
+- Designed, developed, and deployed engaging web applications using Python and Django's Model View Controller (MVC) architecture.
+- Developed and tested various dashboard features using Python, Django, and JavaScript.
+- Created Spark scripts with PySpark and Java using PyCharm and Spring Boot for internalization processes.
+- Implemented responsive UI standards using HTML5, CSS3, JavaScript, Bootstrap, and jQuery.
+
+**Python Develoer @ Purple Talk (_Jun 2018 – Feb 2021_)**
 - Developed complete frontend and backend modules using Python with the Django web framework.
 - Created internal web applications with Django, AngularJS, CSS3, and HTML5.
 - Designed user-friendly interfaces with Django’s view controller and templating language.
@@ -65,6 +70,8 @@
 - Integrated prompt engineering and response handling to improve chatbot accuracy and relevance.
 - Developed an AI-powered chatbot capable of answering user queries in real time using Google’s Gemini Pro API. 
 
-
+## Education							       		
+- M.S., Information Technology	| Concorida University., St. Paul	 			        		
+- B.Tech., ECE | RGUKT- Nuzvid 
 
 ## [Software Development Blog](https://medium.com/@naveenbtech)
